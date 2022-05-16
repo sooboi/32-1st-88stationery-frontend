@@ -52,13 +52,13 @@
 - 1:1 문의 및 댓글 기능
 - 마이페이지
 
-# 본인이 담당한 부분
+# 담당한 부분
 
-### Login, Inquiry 부분 구현
+### Login
+![](https://blog.kakaocdn.net/dn/F6Sbg/btrB6JacLpY/PK80BYZebtidgtTSxNCZA1/img.gif)
 
-### Login 
-
-
+### Inquiry
+![](https://blog.kakaocdn.net/dn/GmviG/btrCcFFisOC/w6vrhf1ytCxppKK7kROQhk/img.gif)
 
 # Reference
 
