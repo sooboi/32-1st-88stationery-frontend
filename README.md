@@ -55,10 +55,10 @@
 # 담당한 부분
 
 ### Login
-![](https://blog.kakaocdn.net/dn/F6Sbg/btrB6JacLpY/PK80BYZebtidgtTSxNCZA1/img.gif)
+![image](https://blog.kakaocdn.net/dn/F6Sbg/btrB6JacLpY/PK80BYZebtidgtTSxNCZA1/img.gif)
 
 ### Inquiry
-![](https://blog.kakaocdn.net/dn/GmviG/btrCcFFisOC/w6vrhf1ytCxppKK7kROQhk/img.gif)
+![image](https://blog.kakaocdn.net/dn/GmviG/btrCcFFisOC/w6vrhf1ytCxppKK7kROQhk/img.gif)
 
 # Reference
 
