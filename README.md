@@ -55,10 +55,22 @@
 # 담당한 부분
 
 ### Login
-![image](https://blog.kakaocdn.net/dn/F6Sbg/btrB6JacLpY/PK80BYZebtidgtTSxNCZA1/img.gif)
+![image](https://user-images.githubusercontent.com/103011139/168606233-3d26a215-f754-4c4e-9bbf-595867fceb5c.png)
+- 아이디, 비밀번호 유효성 검사
+- 틀린 값일시 알림창 띄우기
+- 맞는 값일 경우 통신 후 토큰 받아와 유저 정보 가져오기
+- 사이드바에 유저 이름 띄우기
 
 ### Inquiry
-![image](https://blog.kakaocdn.net/dn/GmviG/btrCcFFisOC/w6vrhf1ytCxppKK7kROQhk/img.gif)
+![image](https://user-images.githubusercontent.com/103011139/168606282-9d8e6ced-e86b-45f7-9588-9bfad27cf5d9.png)
+- 로그인 상태가 아닐시 사용불가 알림창 띄우기
+- 제목, 텍스트 등 입력시 유저 이름과 등록한 날짜는 자동으로 불러와 생성 후 화면 렌더
+- 삭제버튼 누를시 게시물 삭제 후 화면 렌더
+- 게시물 내에 댓글 입력값 작성시 유저 이름과 날짜 불러와서 함께 등록 후 화면 렌더
+- 게시물 내 삭제 버튼 클릭 시 댓글 삭제 후 화면 렌더
+
+## 자세한 내용은 블로그 참조바람
+https://sueboi.tistory.com/25
 
 # Reference
 
