@@ -1,3 +1,5 @@
+[![Video Label](http://img.youtube.com/vi/JQFqtvcOhj0/0.jpg)](https://youtu.be/JQFqtvcOhj0)
+
 # 1차 프로젝트 88문방구 FrontEnd 소개
 
 ### 배민문방구는 주식회사 우아한 형제들의 사이트로 재미있게 사는 (Live or buy) 경험을 추구하는 문구, 리빙, 책, 콜라보 한정판 제품을 판매하며 고유의 색감과 깔끔한 디자인과 탄탄한 기본적인 기능들이 합쳐져있는 온라인 커머스 사이트
